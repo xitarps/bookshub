@@ -14,6 +14,12 @@ This projects is mainly focused on reaching book's environments and comunities
 
 [![Generic badge](https://img.shields.io/badge/Install--blue.svg)](https://shields.io/)
 
+Clone
+
+```
+git clone https://github.com/xitarps/bookshub
+```
+
 Run:
 ```
 bin/setup
