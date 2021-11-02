@@ -11,6 +11,8 @@ This projects is mainly focused on reaching book's environments and comunities
 - Postgresql: 13.4
 - Rspec
 - Factorybot
+- Simplecov
+- Rubocop
 
 <hr>
 
@@ -29,7 +31,7 @@ bin/setup
 
 <hr>
 
-[![Generic badge](https://img.shields.io/badge/Tests--blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Tests--green.svg)](https://shields.io/)
 
 Run
 
@@ -39,7 +41,17 @@ rspec
 
 <hr>
 
-[![Generic badge](https://img.shields.io/badge/Patterns--blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Linter--blue.svg)](https://shields.io/)
+
+Run
+
+```
+rubocop
+```
+
+<hr>
+
+[![Generic badge](https://img.shields.io/badge/Patterns--green.svg)](https://shields.io/)
 
 Commit:
 ```
