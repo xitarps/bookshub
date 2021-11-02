@@ -1,19 +1,42 @@
 # Bookshub
 
-Esse projeto visa implementar todo o ecosistema relativo ao mundo de livros
+This projects is mainly focused on reaching book's environments and comunities 
 
-## Especificações
+<hr>
 
-Ruby: 3.0.2
-Rails: 6.1.4.1
-Postgresql: 13.4
+[![Generic badge](https://img.shields.io/badge/Specs--blue.svg)](https://shields.io/)
 
+- Ruby: 3.0.2
+- Rails: 6.1.4.1
+- Postgresql: 13.4
 
-## Instalação
+<hr>
+
+[![Generic badge](https://img.shields.io/badge/Install--blue.svg)](https://shields.io/)
 
 Executar:
 ```
 bin/setup
 ```
 
- 
+<hr>
+
+[![Generic badge](https://img.shields.io/badge/Patterns--blue.svg)](https://shields.io/)
+
+Executar:
+
+Commit:
+```
+[Flag]: your_commit
+
+* Main flags: Fix, Feature, Refactor, Update, Remove
+```
+
+Branch:
+```
+2021-11-02-first_commit
+
+YYYY-MM-DD-card_title
+```
+
+
