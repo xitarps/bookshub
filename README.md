@@ -14,7 +14,7 @@ This projects is mainly focused on reaching book's environments and comunities
 
 [![Generic badge](https://img.shields.io/badge/Install--blue.svg)](https://shields.io/)
 
-Executar:
+Run:
 ```
 bin/setup
 ```
@@ -22,8 +22,6 @@ bin/setup
 <hr>
 
 [![Generic badge](https://img.shields.io/badge/Patterns--blue.svg)](https://shields.io/)
-
-Executar:
 
 Commit:
 ```
