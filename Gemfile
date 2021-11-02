@@ -34,6 +34,9 @@ group :development, :test do
 
   # Test environment - https://github.com/rspec/rspec-rails
   gem 'rspec-rails', '~> 5.0.0'
+
+  # Test factories - https://github.com/thoughtbot/factory_bot_rails
+  gem 'factory_bot_rails'
 end
 
 group :development do
