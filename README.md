@@ -9,6 +9,8 @@ This projects is mainly focused on reaching book's environments and comunities
 - Ruby: 3.0.2
 - Rails: 6.1.4.1
 - Postgresql: 13.4
+- Rspec
+- Factorybot
 
 <hr>
 
