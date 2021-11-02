@@ -27,6 +27,16 @@ bin/setup
 
 <hr>
 
+[![Generic badge](https://img.shields.io/badge/Tests--blue.svg)](https://shields.io/)
+
+Run
+
+```
+rspec
+```
+
+<hr>
+
 [![Generic badge](https://img.shields.io/badge/Patterns--blue.svg)](https://shields.io/)
 
 Commit:
