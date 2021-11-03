@@ -1,0 +1,6 @@
+pt-BR:
+  hello: "Ola mundo"
+  shared:
+    header:  
+      home: "Casa"
+      about:  "Sobre"
