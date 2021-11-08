@@ -5,3 +5,24 @@ pt-BR:
     header:  
       home: "Casa"
       about:  "Sobre"
+      new: "Novo"
+  books:
+    new:
+      save: "Salvar"
+      title: "Titulo"
+      description: "Descrição"
+    create:
+      book_saved: 'Livro adicionado com sucesso'
+  activerecord:
+    attributes:
+        book:
+          title: 'Titulo'
+          description: 'Descrição' 
+    errors:
+      models:
+        book:
+          attributes:
+            title:
+              blank: ' em branco'
+            description:
+              blank: ' em branco'
