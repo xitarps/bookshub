@@ -5,6 +5,12 @@
 
 This projects is mainly focused on reaching book's environments and comunities 
 
+<br>
+
+### In action (Heroku):
+
+https://welcome-to-books-hub.herokuapp.com
+
 <hr>
 
 [![Generic badge](https://img.shields.io/badge/Specs--blue.svg)](https://shields.io/)
