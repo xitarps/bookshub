@@ -1,0 +1,9 @@
+<h2>Novo livro</h2>
+<%= render 'shared/errors', object: @book %>
+<%= form_with model: @book do |form| %>
+	<p><%= form.label :title , t('.title') %></p>
+	<%= form.text_field :title %>
+	<p><%= form.label :description , t('.description') %></p>
+	<%= form.text_area :description %>
+	<%= form.submit t('.save') %>
+<% end %>
